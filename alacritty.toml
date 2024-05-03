@@ -1,0 +1,7 @@
+import = [
+    "~/.config/alacritty/themes/ayu_dark_custom.toml"
+    #"~/.config/alacritty/themes/cyber_punk_neon_custom.toml"
+    #"~/.config/alacritty/themes/seashells.toml"
+    #"~/.config/alacritty/themes/tomorrow_night.toml"
+    #"~/.config/alacritty/themes/gruvbox_material_hard_dark.toml"
+]
